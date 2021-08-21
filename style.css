@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body {
+  margin: 0 0 0 0;
+}
+
+.logo {
+  height: 25px;
+  width: 100%;
+  background-color: white;
+  margin-top: 0px;
+  padding-top: none;
+  margin-left: 20.2%;
+}
+
+nav {
+  margin-top: 0px;
+  padding-top: none;
+}
+
+#abc {
+  width: 84px;
+  height: 18px;
+  float: left;
+  padding-top: 2px;
+  margin-top: 2px;
+  padding: 0px;
+}
+
+#def {
+  width: 84px;
+  height: 18px;
+  float: left;
+  padding-top: 2px;
+  margin-top: 2px;
+  padding: 0px;
+  margin: auto;
+}
+
+
+.logo ul li {
+  display: inline;
+  margin: 0px;
+  font-size: 12px;
+  border-right: 0.1px solid black;
+  margin-right: 6px;
+  padding-right: 6px;
+  margin-top: 4px;
+  padding-top: 2px;
+  margin-left: 0px;
+}
+
+.logo ul li:hover {
+  border-bottom: 3px solid rgb(181, 22, 22);
+  padding-bottom: 3px;
+}
+
+.NEWS {
+  color:aliceblue;
+  height:30px;
+  width: 100%;
+  background-color: rgb(181, 22, 22);
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.NEWS div{
+  font-size: 21.9px;
+  margin-left: 215.6px;
+  padding-top: 6.7px;
+}
+
+.list ul{
+  display:inline;
+  margin-left: 220px;
+}
+.list ul li{
+  display:inline;
+  font-size:10px;
+  color:white;
+  margin-right: 5.5px;
+}
+.list ul li:hover{
+  border-bottom: 3px solid white;
+  border-radius: 2px;
+  padding-bottom: 3px;
+}
+.list{
+  margin-top: 0px;
+  background-color:  rgb(181, 22, 22);
+  height:23px;
+}
+
+.location ul li {
+  display:inline;
+  font-size: 11px;
+  padding-top: 0px;
+  border-right: 1px solid black;
+  margin-right: 6px;
+  padding-right: 6px;
+}
+
+.location ul li:hover{
+  border-bottom: 3px solid  rgb(181, 22, 22) ;
+  border-radius: 2px;
+  padding-bottom: 3px;
+}
+.location ul{
+  margin-left: 0px;
+  margin-top: 0px;
+
+}
+.location{
+  margin-left: 220px;
+  padding-top: 0px;
+  height:26px;
+}
+.asia{
+  font-weight: bold;
+}
+.image{
+  height:160px;
+  width: 260px;
+  margin-left: 219px;
+  margin-top: 0px;
+  float:left;
+}
+.sidenews-1{
+  height:160px;
+  width:100px;
+  float:left;
+  margin-left: 4px;
+  font-size: 10px;
+  line-height:1em;
+}
+.sidenews-2{
+  height:90px;
+  width:100px;
+  float:left;
+  margin-left: 4px;
+  font-size: 10px;
+  line-height:1em;
+}
+.sidenews-3{
+  height:160px;
+  width:100px;
+  float:left;
+  margin-left: 4px;
+  font-size: 10px;
+  padding-top:0px;
+  line-height:1em; 
+}
+.small{
+  padding-top: 0px;
+}
